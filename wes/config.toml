@@ -1,4 +1,19 @@
 baseurl = "http://wescunningham.net/"
-languageCode = "en-us"
 title = "Wes Cunningham"
-theme = "anybodyhome"
+author = "Chris Graffagnino"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Wes Cunningham"
+
+[[menu.main]]
+    name = "About"
+    url  = "./post/hi/"
+[[menu.main]]
+    name = "Music"
+    url  = "https://soundcloud.com/wes-cunningham"
