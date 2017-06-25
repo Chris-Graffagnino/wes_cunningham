@@ -11,9 +11,11 @@ pygmentscodefences  = true
 [params]
   sitename = "Wes Cunningham"
 
+
 [[menu.main]]
     name = "About"
     url  = "./post/hi/"
+
 [[menu.main]]
     name = "Music"
     url  = "https://soundcloud.com/wes-cunningham"
